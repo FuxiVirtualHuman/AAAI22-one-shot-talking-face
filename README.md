@@ -1,6 +1,6 @@
 # One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning (AAAI 2022)
 
-#### [Paper](https://arxiv.org/pdf/2112.02749.pdf) | [Demo](https://www.youtube.com/watch?v=HHj-XCXXePY)
+#### [Paper](https://arxiv.org/pdf/2112.02749.pdf) | [Demo](https://www.youtube.com/watch?v=HHj-XCXXePY) | [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/camenduru/one-shot-talking-face)
 
 #### Requirements
 
